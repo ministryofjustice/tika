@@ -1,4 +1,4 @@
-Apache Tika Server in Docker
+# Apache Tika Server in Docker
 
 Sets up a container based on
 [dockerfile/java](https://registry.hub.docker.com/u/dockerfile/java/)
